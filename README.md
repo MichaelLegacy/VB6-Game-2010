@@ -1,4 +1,4 @@
-VB6-Game-2011
+VB6-Game-2010
 =============
 
 Small Game made in high school programming course
